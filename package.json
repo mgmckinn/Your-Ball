@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A softball lineup rotation app built with React",
   "private": true,
-  "homepage": "https://mgmckinn.github.io/Softball-Lineup",
+  "homepage": "https://mgmckinn.github.io/Your-Ball",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
